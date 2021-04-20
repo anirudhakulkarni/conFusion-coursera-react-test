@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://Admin:iop123@devconnector-shard-00-00.cwh99.mongodb.net:27017,devconnector-shard-00-01.cwh99.mongodb.net:27017,devconnector-shard-00-02.cwh99.mongodb.net:27017/test?ssl=true&replicaSet=atlas-d899mq-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "jwtSecret":"thisissecrettoken"
+}
