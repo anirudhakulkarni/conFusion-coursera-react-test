@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-web-development-with-react",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn Node",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "lite":"lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anirudhakulkarni/Full-Stack-Web-Development-with-React.git"
+  },
+  "author": "Anirudha Kulkarni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anirudhakulkarni/Full-Stack-Web-Development-with-React/issues"
+  },
+  "homepage": "https://github.com/anirudhakulkarni/Full-Stack-Web-Development-with-React#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
